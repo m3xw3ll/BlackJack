@@ -8,6 +8,7 @@ No extra dependencies are required.
 
 ![Game](blackjack2.png)
 
+
 #️RULES 
 
     -The object of the game is to create card totals higher than those of the dealer's hand 
