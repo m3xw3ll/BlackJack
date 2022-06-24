@@ -9,7 +9,8 @@ No extra dependencies are required.
 ![Game](blackjack2.png)
 
 
-#️RULES 
+
+# Rules
 
     -The object of the game is to create card totals higher than those of the dealer's hand 
     but not exceeding 21, or by stopping at a total in the hope that dealer will bust.
